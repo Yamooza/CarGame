@@ -612,7 +612,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1959476f668943649ac6472329c38794, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  accelerationFactor: 30
+  driftFactor: 0.99
+  accelerationFactor: 40
   turnFactor: 3.5
 --- !u!70 &777896885
 CapsuleCollider2D:

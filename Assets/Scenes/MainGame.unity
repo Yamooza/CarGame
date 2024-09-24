@@ -376,6 +376,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &122010640
 Transform:
   m_ObjectHideFlags: 0
@@ -391,6 +392,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 999511620}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
+=======
+>>>>>>> parent of 0bd8985 (s)
 =======
 >>>>>>> parent of 0bd8985 (s)
 --- !u!1 &136259397
@@ -929,6 +932,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &465775329
 Transform:
   m_ObjectHideFlags: 0
@@ -1227,6 +1231,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> parent of 0bd8985 (s)
 =======
 >>>>>>> parent of 0bd8985 (s)
 --- !u!1 &557596025
@@ -2141,6 +2147,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &868916264
 Transform:
   m_ObjectHideFlags: 0
@@ -2156,6 +2163,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 999511620}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -47.128}
+=======
+>>>>>>> parent of 0bd8985 (s)
 =======
 >>>>>>> parent of 0bd8985 (s)
 --- !u!1 &999511619
@@ -2209,6 +2218,7 @@ Transform:
   - {fileID: 1331354495}
   - {fileID: 557596026}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1280591838}
   - {fileID: 1435131536}
   - {fileID: 669350770}
@@ -2221,6 +2231,8 @@ Transform:
   - {fileID: 868916264}
   - {fileID: 1526796241}
 =======
+=======
+>>>>>>> parent of 0bd8985 (s)
   - {fileID: 1023683171}
   - {fileID: 470042352}
   - {fileID: 526265051}
@@ -2232,6 +2244,9 @@ Transform:
   - {fileID: 1461043014}
   - {fileID: 1259871480}
   - {fileID: 2085241257}
+<<<<<<< HEAD
+>>>>>>> parent of 0bd8985 (s)
+=======
 >>>>>>> parent of 0bd8985 (s)
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2908,6 +2923,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1526796241
 Transform:
   m_ObjectHideFlags: 0
@@ -2923,6 +2939,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 999511620}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -139.953}
+=======
+>>>>>>> parent of 0bd8985 (s)
 =======
 >>>>>>> parent of 0bd8985 (s)
 --- !u!1 &1534892716
@@ -3697,6 +3715,10 @@ SceneRoots:
   - {fileID: 568666903}
   - {fileID: 466230950}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  - {fileID: 579909614}
+>>>>>>> parent of 0bd8985 (s)
 =======
   - {fileID: 579909614}
 >>>>>>> parent of 0bd8985 (s)

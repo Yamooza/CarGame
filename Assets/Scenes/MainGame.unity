@@ -3177,6 +3177,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 579909614}
+  - {fileID: 496929050}
+  - {fileID: 1690811311}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &470042351
@@ -3431,6 +3433,84 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &496929049
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 496929050}
+  - component: {fileID: 496929051}
+  m_Layer: 0
+  m_Name: Open Sprite Shape
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &496929050
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 496929049}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -172.7, y: -158.2, z: 0}
+  m_LocalScale: {x: -13.5776, y: -1.8153, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 466230950}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &496929051
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 496929049}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: 0.52754855, y: 0.013813019}
+  - {x: 4.7454944, y: -26.947104}
+  - {x: 4.7277074, y: -81.35187}
+  - {x: -4.858335, y: -81.21802}
+  - {x: -4.837038, y: -10.109888}
+  - {x: -3.5568798, y: -0.39351133}
+  - {x: 0.5, y: 0}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!1 &506207089
 GameObject:
   m_ObjectHideFlags: 0
@@ -12365,6 +12445,129 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1690811310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1690811311}
+  - component: {fileID: 1690811312}
+  m_Layer: 0
+  m_Name: Open Sprite Shape
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1690811311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1690811310}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -174.17969, y: 12.495651, z: 0.2881347}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 466230950}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &1690811312
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1690811310}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -172.15184, y: 0.90826416}
+  - {x: -163.90417, y: 0.8652878}
+  - {x: 166.21506, y: -0.854805}
+  - {x: 166.19983, y: 6.553131}
+  - {x: 132.90208, y: 36.218933}
+  - {x: 133.68248, y: 43.614807}
+  - {x: 130.95413, y: 94.09741}
+  - {x: 111.427864, y: 117.50491}
+  - {x: -285.62854, y: 54.243835}
+  - {x: -284.2576, y: 46.903824}
+  - {x: -247.95352, y: 24.686493}
+  - {x: -243.17923, y: 0.4663391}
+  - {x: -225.95273, y: -58.986645}
+  - {x: -190.45126, y: -80.75969}
+  - {x: -186.68033, y: -101.307945}
+  - {x: -192.17242, y: -114.00844}
+  - {x: -195.27411, y: -123.51565}
+  - {x: -353.56677, y: -151.18045}
+  - {x: -351.7756, y: -162.6051}
+  - {x: -341.3595, y: -161.0542}
+  - {x: -335.5077, y: -184.64392}
+  - {x: -341.49097, y: -206.38031}
+  - {x: -340.98395, y: -207.65689}
+  - {x: -545.06555, y: -251.48419}
+  - {x: -543.3372, y: -258.28778}
+  - {x: -497.90167, y: -282.7121}
+  - {x: -434.89337, y: -315.3266}
+  - {x: -392.11758, y: -304.10266}
+  - {x: -377.04446, y: -316.70413}
+  - {x: -371.26517, y: -328.4969}
+  - {x: -365.8468, y: -338.24353}
+  - {x: -388.8276, y: -372.98706}
+  - {x: -388.99982, y: -380.65375}
+  - {x: -258.51282, y: -380.424}
+  - {x: -258.70712, y: -372.742}
+  - {x: -292.11203, y: -344.88843}
+  - {x: -290.19156, y: -339.33432}
+  - {x: -299.89575, y: -259.47833}
+  - {x: -331.13025, y: -232.38211}
+  - {x: -331.47018, y: -212.02461}
+  - {x: -322.8044, y: -197.7372}
+  - {x: -322.67276, y: -190.38397}
+  - {x: -113.759865, y: -189.61456}
+  - {x: -113.32841, y: -183.20331}
+  - {x: -146.50278, y: -154.51517}
+  - {x: -144.90317, y: -148.45221}
+  - {x: -153.81076, y: -68.65634}
+  - {x: -184.76447, y: -43.09079}
+  - {x: -185.1481, y: -20.778992}
+  - {x: -175.63635, y: -8.064293}
+  - {x: -175.54462, y: 0.036109924}
+  - {x: -171.06311, y: 0.6869278}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!1 &1690909725
 GameObject:
   m_ObjectHideFlags: 0
